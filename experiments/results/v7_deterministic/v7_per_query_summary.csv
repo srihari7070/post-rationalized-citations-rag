@@ -1,0 +1,76 @@
+query_id,type,tier,query,mean_prr_before,mean_delta,n_conditions_flagged,n_conditions_improved,gemini_before,mistral_before,llama3_before,gemini_delta,mistral_delta,llama3_delta
+A01,A,single-fact,Which Austrian company uses artificial intelligence to automatically analyse bone and joint images so that radiologists ,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A02,A,single-fact,Which Austrian fintech startup allows shops and businesses to accept cryptocurrency payments by plugging into their exis,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A03,A,two-fact,Which Swiss university spinoff stores surplus renewable electricity by converting it into iron oxide and then reversing ,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A04,A,two-fact,Which Swiss climate startup uses drones and environmental DNA tracking to replant mangroves at scale along coastlines th,0.3333333333333333,-0.3333333333333333,1,1,0.0,1.0,0.0,0.0,-1.0,0.0
+A05,A,single-fact,Which Austrian startup lets privately insured patients pay for medical expenses with a card at the point of care instead,0.3333333333333333,-0.3333333333333333,1,1,0.0,1.0,0.0,0.0,-1.0,0.0
+A06,A,single-fact,Which Austrian startup offers an app that assesses the risk of skin cancer from a photo and connects the user with a der,0.5,0.0,2,0,1.0,0.0,0.5,0.0,0.0,0.0
+A07,A,single-fact,Which Austrian fintech startup helps banks and insurance companies let their customers search for a specific advisor and,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A08,A,single-fact,Which German startup allows everyday investors to fund construction and real estate projects online in exchange for fixe,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A09,A,two-fact,Which Swiss cleantech startup extracts renewable heating and cooling energy from the walls and floors of underground str,0.3333333333333333,-0.3333333333333333,1,1,0.0,1.0,0.0,0.0,-1.0,0.0
+A10,A,two-fact,"Which Swiss deep-tech startup uses quantum mechanics to measure magnetic fields at the scale of individual atoms, with a",0.3333333333333333,-0.16666666666666666,2,1,0.0,0.5,0.5,0.0,0.0,-0.5
+A11,A,two-fact,Which Swiss startup enables autonomous underwater vehicles and divers to communicate and transfer data through water usi,0.13333333333333333,0.0,1,0,0.0,0.0,0.4,0.0,0.0,0.0
+A12,A,single-fact,"Which German startup can screen patients for coronary artery disease without any injections, catheters, or imaging contr",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A13,A,single-fact,Which German startup runs an online marketplace where biomedical researchers can order human tissue samples and biologic,0.6666666666666666,-0.16666666666666666,3,1,0.5,1.0,0.5,0.0,-1.0,0.5
+A14,A,single-fact,Which German cybersecurity firm goes beyond passive defence by actively hunting for attackers inside client networks and,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A15,A,single-fact,"Which German startup uses computer vision to count and analyse yeast cells under a microscope automatically, helping cra",0.6666666666666666,-0.6666666666666666,2,2,0.0,1.0,1.0,0.0,-1.0,-1.0
+A16,A,two-fact,Which German startup developed a self-driving car system by modelling the technology after the way the human brain proce,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A17,A,single-fact,"Which Swiss startup makes it easy for people living in city apartments to compost their kitchen scraps using worms, with",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A18,A,two-fact,Which Swiss ETH spinoff uses nanotechnology and Raman spectroscopy to detect contamination in the ultrapure liquids used,0.3333333333333333,-0.3333333333333333,1,1,0.0,1.0,0.0,0.0,-1.0,0.0
+A19,A,two-fact,Which Swiss blockchain startup has built the infrastructure layer that allows institutional borrowers and lenders to tra,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A20,A,two-fact,Which Swiss cleantech startup makes software that helps electricity distribution network operators manage the instabilit,0.6666666666666666,-0.3333333333333333,2,1,0.0,1.0,1.0,0.0,0.0,-1.0
+A21,A,single-fact,Which Swiss startup sells a SaaS platform that energy suppliers use to read smart meters remotely and reduce the manual ,0.16666666666666666,0.0,1,0,0.5,0.0,0.0,0.0,0.0,0.0
+A22,A,two-fact,Which Swiss startup uses AI to help cities and property owners model the energy performance of entire urban neighbourhoo,0.3333333333333333,0.0,1,0,0.0,0.0,1.0,0.0,0.0,0.0
+A23,A,single-fact,"Which Swiss startup helps students who want to study at a foreign university independently, without going through a form",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A24,A,single-fact,Which Swiss startup trains company employees to resist phishing attacks by sending them convincing fake phishing emails ,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A25,A,two-fact,Which Swiss healthtech startup uses AI to analyse photographs of the inside of the eye in order to detect signs of diabe,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A26,A,single-fact,Which German startup analyses the text content of web pages in real time so that the ads shown on those pages match the ,0.16666666666666666,-0.16666666666666666,1,1,0.5,0.0,0.0,-0.5,0.0,0.0
+A27,A,two-fact,Which German startup makes a software brain for factory robots that allows them to visually identify and pick up objects,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A28,A,two-fact,Which German IT company specialises in running and integrating SAP systems specifically for freight forwarding and air c,0.3333333333333333,0.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0
+A29,A,single-fact,Which German startup lets retail investors buy small fractional stakes in individual residential or commercial propertie,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+A30,A,two-fact,"Which German software company helps pharmaceutical and medical device companies manage the documentation, audit trails, ",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+B01,B,single-fact,Which German startup uses AI to help online publishers and advertisers target the right audience?,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+B02,B,single-fact,Which Swiss startup is working on energy storage solutions for renewable power?,0.39999999999999997,0.016666666666666663,3,0,0.6,0.4,0.2,0.0,0.0,0.04999999999999999
+B03,B,single-fact,Which DACH startup helps companies measure and reduce their carbon emissions?,0.4444333333333333,-0.06666666666666667,3,1,0.6,0.4,0.3333,0.0,-0.2,0.0
+B04,B,single-fact,Which Austrian startup operates at the intersection of financial services and healthcare?,0.16666666666666666,0.0,1,0,0.5,0.0,0.0,0.0,0.0,0.0
+B05,B,single-fact,Which German cybersecurity startup offers managed security services to mid-sized businesses?,0.16666666666666666,-0.16666666666666666,1,1,0.0,0.5,0.0,0.0,-0.5,0.0
+B06,B,single-fact,Which Swiss startup applies machine learning to improve the accuracy of medical diagnoses?,0.13333333333333333,0.06666666666666665,1,0,0.4,0.0,0.0,0.19999999999999996,0.0,0.0
+B07,B,single-fact,Which German startup provides software tools for property managers and real estate developers?,0.48889999999999995,-0.10000000000000002,2,1,0.6667,0.8,0.0,0.0,-0.30000000000000004,0.0
+B08,B,single-fact,Which DACH startup is building software specifically for banks or insurance companies to improve digital customer intera,0.3333333333333333,0.0,2,0,0.5,0.5,0.0,0.0,0.0,0.0
+B09,B,single-fact,Which German or Swiss startup uses AI to optimise supply chains or logistics operations?,0.7555666666666667,-0.20003333333333337,3,2,0.6,0.6667,1.0,0.4,-0.3334,-0.6667000000000001
+B10,B,single-fact,"Which German startup helps employees collaborate better and manage their work digitally, especially for distributed team",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+B11,B,single-fact,Which Swiss or German startup helps city residents reduce household food waste in an environmentally friendly way?,0.6666666666666666,-0.3333333333333333,3,2,1.0,0.5,0.5,0.0,-0.5,-0.5
+B12,B,single-fact,Which DACH startup helps small and medium-sized businesses digitise their internal processes?,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+B13,B,single-fact,Which startup operating in the DACH region runs security awareness training or simulated attack exercises for corporate ,0.6944333333333333,-0.08333333333333333,3,1,0.75,0.3333,1.0,-0.25,0.0,0.0
+B14,B,single-fact,Which Swiss or German deep-tech startup focuses on water analysis or purification technology?,0.26666666666666666,-0.01666666666666668,1,1,0.0,0.0,0.8,0.0,0.0,-0.050000000000000044
+B15,B,single-fact,Which DACH startup is using blockchain technology to create new financial products or services?,0.3611,0.11113333333333332,3,0,0.5,0.25,0.3333,0.0,0.0,0.3334
+C01,C,two-fact,"Which Swiss startup can store surplus wind and solar power for days or weeks at a time, not just hours, using a technolo",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C02,C,two-fact,Which Swiss startup is fighting the disappearance of tropical coastal forests by sending autonomous flying machines to p,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C03,C,two-fact,Which Swiss startup generates clean heating and cooling for buildings by borrowing warmth from the ground beneath existi,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C04,C,two-fact,Which Swiss startup makes it possible for robots working on the seabed to send video and telemetry back to the surface w,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C05,C,three-fact,Which Swiss startup built instruments that let researchers observe magnetic phenomena that occur at a scale one thousand,0.16666666666666666,0.0,1,0,0.5,0.0,0.0,0.0,0.0,0.0
+C06,C,single-fact,Which Swiss startup has designed a simple kit that lets someone living in a flat convert their vegetable peelings and co,1.0,-0.3333333333333333,3,1,1.0,1.0,1.0,0.0,-1.0,0.0
+C07,C,two-fact,Which German startup has automated the process of checking whether a batch of fermented liquid is ready for the next pro,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C08,C,two-fact,"Which German startup can tell a doctor whether a patient's heart arteries are significantly narrowed, using nothing more",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C09,C,single-fact,Which German startup acts as an intermediary that helps scientists who need leftover human organs or blood from hospital,1.0,-0.5,3,2,1.0,1.0,1.0,-0.5,0.0,-1.0
+C10,C,two-fact,Which Swiss startup has built a system where someone can lock up digital assets as collateral and immediately borrow aga,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C11,C,single-fact,Which Swiss startup protects organisations from email fraud by regularly sending their own employees convincingly decept,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C12,C,two-fact,Which Swiss startup from ETH Zurich has built a device that can tell whether a liquid used in electronics manufacturing ,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C13,C,two-fact,"Which German startup taught a car to drive itself by studying how biological nervous systems process what they see, rath",0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C14,C,two-fact,Which Swiss startup makes software that helps electricity grid operators cope with the problem of voltage fluctuations c,0.3333333333333333,0.0,1,0,0.0,0.0,1.0,0.0,0.0,0.0
+C15,C,two-fact,Which German startup gives factory robots the ability to figure out how to handle an unfamiliar object without being rep,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C16,C,single-fact,"Which German startup ensures that when someone reads a recipe article online, the advertisements they see are for cookwa",0.3611,0.22223333333333337,2,0,0.3333,0.0,0.75,0.6667000000000001,0.0,0.0
+C17,C,single-fact,Which Austrian fintech startup lets customers of a bank look up a specific adviser by name and expertise and book a vide,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C18,C,two-fact,Which Swiss startup uses AI to look at photographs taken of the back of the eye and flag patients who may be losing thei,0.3333333333333333,-0.3333333333333333,1,1,0.0,0.0,1.0,0.0,0.0,-1.0
+C19,C,two-fact,Which German software company helps drug makers keep detailed records of every step in their manufacturing process so th,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+C20,C,two-fact,Which German IT company specialises in keeping the technology systems of companies that move cargo by air running withou,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+D01,D,single-fact,Which startup based in Liechtenstein has developed a robotic surgical assistance system approved for use in hospitals?,0.3333333333333333,0.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0
+D02,D,single-fact,Which DACH startup has built and commercially deployed a working nuclear fusion reactor component that is being sold to ,0.13333333333333333,0.0,1,0,0.0,0.0,0.4,0.0,0.0,0.0
+D03,D,single-fact,Which Austrian startup founded before 2005 with more than two thousand employees focuses on quantum cryptography for gov,0.6,0.0,2,0,0.8,1.0,0.0,0.0,0.0,0.0
+D04,D,single-fact,"Which German startup operates a city-wide hyperloop passenger transport network connecting two major urban centres, with",0.6,0.0,2,0,0.8,1.0,0.0,0.0,0.0,0.0
+D05,D,single-fact,Which Swiss or Austrian startup has deployed fleets of autonomous drones that make regular deliveries of prescription me,0.3333333333333333,0.0,2,0,0.8,0.0,0.2,0.0,0.0,0.0
+D06,D,single-fact,Which startup operating in Vienna or Graz has a commercially available brain-computer interface device that allows patie,0.6,0.0,2,0,0.8,0.0,1.0,0.0,0.0,0.0
+D07,D,single-fact,Which German startup runs a decentralised social media network with no central server that currently has more than one m,0.16666666666666666,0.0,1,0,0.5,0.0,0.0,0.0,0.0,0.0
+D08,D,single-fact,"Which DACH startup is currently selling lab-grown fish fillets grown entirely from cell cultures, without raising or cat",0.6,-0.26666666666666666,2,1,1.0,0.8,0.0,0.0,-0.8,0.0
+D09,D,two-fact,Which Swiss startup founded before 2010 with more than five hundred employees provides quantum computing services to pha,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+D10,D,two-fact,Which German startup has built a commercially operational quantum computer with more than one thousand stable qubits tha,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0

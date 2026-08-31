@@ -1,0 +1,492 @@
+# Master reference database.
+#
+# Every entry carries a "job" field: the specific claim it supports and where.
+# If a reference has no job, it does not belong in the thesis. This is the
+# filter against padding the count.
+#
+# type: journal | conference | preprint | book | web
+# verified: full | abstract | proposal  (proposal = carried from the verified
+#           proposal reference list, checked 14 Aug)
+
+- key: lewis2020
+  authors: ["Lewis, P.", "Perez, E.", "Piktus, A.", "Petroni, F.", "Karpukhin, V.", "Goyal, N.", "Küttler, H.", "Lewis, M.", "Yih, W.", "Rocktäschel, T.", "Riedel, S.", "Kiela, D."]
+  year: 2020
+  title: Retrieval-augmented generation for knowledge-intensive NLP tasks
+  venue: Advances in Neural Information Processing Systems
+  volume: 33
+  pages: 9459-9474
+  type: conference
+  verified: proposal
+  job: "Ch1 and Ch2.2. The architecture this thesis operates on."
+
+- key: karpukhin2020
+  authors: ["Karpukhin, V.", "Oğuz, B.", "Min, S.", "Lewis, P.", "Wu, L.", "Edunov, S.", "Chen, D.", "Yih, W."]
+  year: 2020
+  title: Dense passage retrieval for open-domain question answering
+  venue: EMNLP 2020
+  pages: 6769-6781
+  type: conference
+  verified: abstract
+  job: "Ch3. Why dense vector retrieval rather than keyword search."
+
+- key: reimers2019
+  authors: ["Reimers, N.", "Gurevych, I."]
+  year: 2019
+  title: "Sentence-BERT: Sentence embeddings using Siamese BERT-networks"
+  venue: EMNLP-IJCNLP 2019
+  pages: 3982-3992
+  type: conference
+  verified: abstract
+  job: "Ch2.9 and Ch3. Cosine similarity of sentence embeddings as a semantic measure."
+
+- key: ji2023
+  authors: ["Ji, Z.", "Lee, N.", "Frieske, R.", "Yu, T.", "Su, D.", "Xu, Y.", "Ishii, E.", "Bang, Y.", "Madotto, A.", "Fung, P."]
+  year: 2023
+  title: Survey of hallucination in natural language generation
+  venue: ACM Computing Surveys
+  volume: 55
+  number: 12
+  pages: "Article 248"
+  type: journal
+  verified: proposal
+  job: "Ch2.3. Intrinsic versus extrinsic hallucination."
+
+- key: huang2025survey
+  authors: ["Huang, L.", "Yu, W.", "Ma, W.", "Zhong, W.", "Feng, Z.", "Wang, H.", "Chen, Q.", "Peng, W.", "Feng, X.", "Qin, B.", "Liu, T."]
+  year: 2025
+  title: A survey on hallucination in large language models
+  venue: ACM Transactions on Information Systems
+  volume: 43
+  number: 2
+  pages: "Article 42"
+  type: journal
+  verified: proposal
+  job: "Ch1. Names RAG faithfulness and lack of controlled evaluation as open challenges."
+
+- key: magesh2025
+  authors: ["Magesh, V.", "Surani, F.", "Dahl, M.", "Suzgun, M.", "Manning, C. D.", "Ho, D. E."]
+  year: 2025
+  title: "Hallucination-free? Assessing the reliability of leading AI legal research tools"
+  venue: Journal of Empirical Legal Studies
+  volume: 22
+  number: 2
+  pages: 216-242
+  type: journal
+  verified: proposal
+  job: "Ch1. Hallucination rates of 17-33% in deployed commercial legal tools."
+
+- key: wallat2024
+  authors: ["Wallat, J.", "Heuss, M.", "de Rijke, M.", "Anand, A."]
+  year: 2024
+  title: Correctness is not faithfulness in RAG attributions
+  venue: "arXiv preprint arXiv:2412.18004"
+  type: preprint
+  verified: full
+  job: "Ch1 and Ch2.4. Defines post-rationalisation. 57% unfaithful citations."
+
+- key: es2024
+  authors: ["Es, S.", "James, J.", "Espinosa-Anke, L.", "Schockaert, S."]
+  year: 2024
+  title: "RAGAs: Automated evaluation of retrieval augmented generation"
+  venue: "EACL 2024, System Demonstrations"
+  pages: 150-158
+  type: conference
+  verified: abstract
+  job: "Ch2.4. Reference-free faithfulness by claim decomposition."
+
+- key: gao2023alce
+  authors: ["Gao, T.", "Yen, H.", "Yu, J.", "Chen, D."]
+  year: 2023
+  suffix: a
+  title: Enabling large language models to generate text with citations
+  venue: EMNLP 2023
+  pages: 6465-6488
+  type: conference
+  verified: abstract
+  job: "Ch2.4. ALCE citation quality evaluation."
+
+- key: saxena2025
+  authors: ["Saxena, Y.", "Bommireddy, R.", "Padia, A.", "Gaur, M."]
+  year: 2025
+  title: "Generation-time vs. post-hoc citation: A holistic evaluation of LLM attribution"
+  venue: "arXiv preprint arXiv:2509.21557"
+  type: preprint
+  verified: full
+  job: "Ch2.4. G-Cite and P-Cite vocabulary for the phenomenon."
+
+- key: maheshwari2025
+  authors: ["Maheshwari, H.", "Tenneti, S.", "Nakkiran, A."]
+  year: 2025
+  title: "CiteFix: Enhancing RAG accuracy through post-processing citation correction"
+  venue: "ACL 2025, Industry Track"
+  type: conference
+  verified: abstract
+  job: "Ch2.5. Citation correction by matching, 15.46% relative gain."
+
+- key: song2025trustalign
+  authors: ["Song, M.", "Sim, S. H.", "Bhardwaj, R.", "Chieu, H. L.", "Majumder, N.", "Poria, S."]
+  year: 2025
+  title: Measuring and enhancing trustworthiness of LLMs in RAG through grounded attributions and learning to refuse
+  venue: ICLR 2025
+  type: conference
+  verified: abstract
+  job: "Ch2.5 and Ch5. Alignment for grounded attribution and refusal. Refusal relates to Type D."
+
+- key: wu2024syncheck
+  authors: ["Wu, D.", "Gu, J.-C.", "Yin, F.", "Peng, N.", "Chang, K.-W."]
+  year: 2024
+  title: Synchronous faithfulness monitoring for trustworthy retrieval-augmented generation
+  venue: EMNLP 2024
+  type: conference
+  verified: abstract
+  job: "Ch2.5. Inference-time intervention by decoding control, closest on that axis."
+
+- key: madaan2023
+  authors: ["Madaan, A.", "Tandon, N.", "Gupta, P.", "Hallinan, S.", "Gao, L.", "Wiegreffe, S.", "Alon, U.", "Dziri, N.", "Prabhumoye, S.", "Yang, Y.", "Gupta, S.", "Majumder, B. P.", "Hermann, K.", "Welleck, S.", "Yazdanbakhsh, A.", "Clark, P."]
+  year: 2023
+  title: "Self-Refine: Iterative refinement with self-feedback"
+  venue: Advances in Neural Information Processing Systems
+  volume: 36
+  type: conference
+  verified: abstract
+  job: "Ch2.6. Iterative self-feedback and revision."
+
+- key: bai2022
+  authors: ["Bai, Y.", "Kadavath, S.", "Kundu, S.", "Askell, A.", "Kernion, J.", "Jones, A.", "et al."]
+  year: 2022
+  title: "Constitutional AI: Harmlessness from AI feedback"
+  venue: "arXiv preprint arXiv:2212.08073"
+  type: preprint
+  verified: abstract
+  job: "Ch2.6. Model-generated critique against stated principles."
+
+- key: wang2025srnle
+  authors: ["Wang, Y.", "Atanasova, P."]
+  year: 2025
+  title: Self-critique and refinement for faithful natural language explanations
+  venue: EMNLP 2025
+  type: conference
+  verified: full
+  job: "Ch2.6. Closest conceptual match: attribution as a refinement feedback signal."
+
+- key: huang2024selfcorrect
+  authors: ["Huang, J.", "Chen, X.", "Mishra, S.", "Zheng, H. S.", "Yu, A. W.", "Song, X.", "Zhou, D."]
+  year: 2024
+  title: Large language models cannot self-correct reasoning yet
+  venue: ICLR 2024
+  type: conference
+  verified: abstract
+  job: "Ch2.6 and Ch5. Self-correction fails without external signal. Supports the discriminator finding."
+
+- key: pan2024correcting
+  authors: ["Pan, L.", "Saxon, M.", "Xu, W.", "Nathani, D.", "Wang, X.", "Wang, W. Y."]
+  year: 2024
+  title: "Automatically correcting large language models: Surveying the landscape of diverse automated correction strategies"
+  venue: Transactions of the Association for Computational Linguistics
+  volume: 12
+  pages: 484-506
+  type: journal
+  verified: abstract
+  job: "Ch2.6. Survey placing this work in the correction-strategy landscape."
+
+- key: zheng2023judge
+  authors: ["Zheng, L.", "Chiang, W.-L.", "Sheng, Y.", "Zhuang, S.", "Wu, Z.", "Zhuang, Y.", "Lin, Z.", "Li, Z.", "Li, D.", "Xing, E. P.", "Zhang, H.", "Gonzalez, J. E.", "Stoica, I."]
+  year: 2023
+  title: "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena"
+  venue: "NeurIPS 2023, Datasets and Benchmarks Track"
+  type: conference
+  verified: abstract
+  job: "Ch2.7. Position, verbosity and self-enhancement bias in model judges."
+
+- key: turpin2023
+  authors: ["Turpin, M.", "Michael, J.", "Perez, E.", "Bowman, S. R."]
+  year: 2023
+  title: "Language models don't always say what they think: Unfaithful explanations in chain-of-thought prompting"
+  venue: Advances in Neural Information Processing Systems
+  volume: 36
+  type: conference
+  verified: proposal
+  job: "Ch2.7 and Ch5. Stated reasoning does not reflect actual computation. Direct parallel."
+
+- key: lanham2023
+  authors: ["Lanham, T.", "Chen, A.", "Radhakrishnan, A.", "Steiner, B.", "Denison, C.", "Hernandez, D.", "et al."]
+  year: 2023
+  title: Measuring faithfulness in chain-of-thought reasoning
+  venue: "arXiv preprint arXiv:2307.13702"
+  type: preprint
+  verified: proposal
+  job: "Ch5. Larger models can be less faithful. Relevant to the Gemini result."
+
+- key: atanasova2023
+  authors: ["Atanasova, P.", "Camburu, O.-M.", "Lioma, C.", "Lukasiewicz, T.", "Simonsen, J. G.", "Augenstein, I."]
+  year: 2023
+  title: Faithfulness tests for natural language explanations
+  venue: "ACL 2023, Short Papers"
+  pages: 222-235
+  type: conference
+  verified: proposal
+  job: "Ch2.8. Tests for whether an explanation reflects the actual process."
+
+- key: ribeiro2016
+  authors: ["Ribeiro, M. T.", "Singh, S.", "Guestrin, C."]
+  year: 2016
+  title: "\"Why should I trust you?\": Explaining the predictions of any classifier"
+  venue: KDD 2016
+  pages: 1135-1144
+  type: conference
+  verified: abstract
+  job: "Ch2.8. Perturbation-based attribution."
+
+- key: lundberg2017
+  authors: ["Lundberg, S. M.", "Lee, S.-I."]
+  year: 2017
+  title: A unified approach to interpreting model predictions
+  venue: Advances in Neural Information Processing Systems
+  volume: 30
+  pages: 4765-4774
+  type: conference
+  verified: abstract
+  job: "Ch2.8. Additive feature attribution."
+
+- key: roy2025
+  authors: ["Roy, R. S.", "Schlotthauer, J.", "Hinze, C.", "Foltyn, A.", "Hahn, L.", "Küch, F."]
+  year: 2025
+  title: Evidence contextualization and counterfactual attribution for conversational QA over heterogeneous data with RAG systems
+  venue: WSDM 2025
+  type: conference
+  verified: full
+  job: "Ch2.8 and Ch5. Publishes the same removal-based measurement. Closest prior work."
+
+- key: cohenwang2024
+  authors: ["Cohen-Wang, B.", "Shah, H.", "Georgiev, K.", "Madry, A."]
+  year: 2024
+  title: "ContextCite: Attributing model generation to context"
+  venue: Advances in Neural Information Processing Systems
+  volume: 37
+  type: conference
+  verified: abstract
+  job: "Ch2.8. Context attribution via linear surrogate."
+
+- key: liu2025attribot
+  authors: ["Liu, F.", "Kandpal, N.", "Raffel, C."]
+  year: 2025
+  title: "AttriBoT: A bag of tricks for efficiently approximating leave-one-out context attribution"
+  venue: ICLR 2025
+  type: conference
+  verified: abstract
+  job: "Ch2.8 and Ch5. Leave-one-out made practical. Relevant to the cost objection."
+
+- key: jain2026cuer
+  authors: ["Jain, S.", "Vedam, V. N."]
+  year: 2026
+  title: "CUE-R: Beyond the final answer in retrieval-augmented generation"
+  venue: "arXiv preprint arXiv:2604.05467"
+  type: preprint
+  verified: full
+  job: "Ch2.8 and Ch3.9. Remove/replace/duplicate operators. Duplicate evidence is answer-redundant, which is the redundancy confound."
+
+- key: dassen2026factum
+  authors: ["Dassen, M.", "Kotula, R.", "Murray, K.", "Yates, A.", "Lawrie, D.", "Kayi, E.", "Mayfield, J.", "Duh, K."]
+  year: 2026
+  title: "FACTUM: Mechanistic detection of citation hallucination in long-form RAG"
+  venue: ECIR 2026
+  type: conference
+  verified: proposal
+  job: "Ch2.7. Mechanistic detection requiring model internals. Complement to the behavioural approach."
+
+- key: vandort2026
+  authors: ["van Dort, I.", "Heuss, M."]
+  year: 2026
+  title: "How do LLMs cite? A mechanistic interpretation of attribution in retrieval-augmented generation"
+  venue: ECIR 2026
+  type: conference
+  verified: abstract
+  job: "Ch2.7 and Ch6. States that whether the model genuinely uses a source is an unverified assumption."
+
+- key: sun2025redeep
+  authors: ["Sun, Z.", "Zang, X.", "Zheng, K.", "Xu, J.", "Zhang, X.", "Yu, W.", "Song, Y.", "Li, H."]
+  year: 2025
+  title: "ReDeEP: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability"
+  venue: ICLR 2025
+  type: conference
+  verified: proposal
+  job: "Ch2.7 and Ch5. Knowledge FFNs overweight parametric knowledge. Mechanistic account of why generators resist correction."
+
+- key: zhu2024atm
+  authors: ["Zhu, J.", "Yan, L.", "Shi, H.", "Yin, D.", "Sha, L."]
+  year: 2024
+  title: "ATM: Adversarial tuning multi-agent system makes a robust retrieval-augmented generator"
+  venue: EMNLP 2024
+  type: conference
+  verified: proposal
+  job: "Ch2.5 and Ch5. Adversarial training for RAG robustness, different target problem."
+
+- key: zhou2023
+  authors: ["Zhou, W.", "Zhang, S.", "Poon, H.", "Chen, M."]
+  year: 2023
+  title: Context-faithful prompting for large language models
+  venue: Findings of EMNLP 2023
+  pages: 14544-14556
+  type: conference
+  verified: proposal
+  job: "Ch2.5 and Ch5. Prompting improves context reliance. The cheaper alternative this work is measured against."
+
+- key: chen2024benchmark
+  authors: ["Chen, J.", "Lin, H.", "Han, X.", "Sun, L."]
+  year: 2024
+  title: Benchmarking large language models in retrieval-augmented generation
+  venue: AAAI 2024
+  type: conference
+  verified: proposal
+  job: "Ch3. Established RAG evaluation practice, justifies design choices."
+
+- key: goodfellow2014
+  authors: ["Goodfellow, I.", "Pouget-Abadie, J.", "Mirza, M.", "Xu, B.", "Warde-Farley, D.", "Ozair, S.", "Courville, A.", "Bengio, Y."]
+  year: 2014
+  title: Generative adversarial nets
+  venue: Advances in Neural Information Processing Systems
+  volume: 27
+  type: conference
+  verified: proposal
+  job: "Ch2.6 and Ch5. The generator-discriminator framing this design borrowed and then departed from."
+
+- key: cohen1960
+  authors: ["Cohen, J."]
+  year: 1960
+  title: A coefficient of agreement for nominal scales
+  venue: Educational and Psychological Measurement
+  volume: 20
+  number: 1
+  pages: 37-46
+  type: journal
+  verified: abstract
+  job: "Ch3. Cohen's kappa for the validation study."
+
+- key: landis1977
+  authors: ["Landis, J. R.", "Koch, G. G."]
+  year: 1977
+  title: The measurement of observer agreement for categorical data
+  venue: Biometrics
+  volume: 33
+  number: 1
+  pages: 159-174
+  type: journal
+  verified: abstract
+  job: "Ch3. Interpretation bands for kappa values."
+
+- key: cohen1988
+  authors: ["Cohen, J."]
+  year: 1988
+  title: Statistical Power Analysis for the Behavioral Sciences
+  venue: "Lawrence Erlbaum Associates, 2nd edition"
+  type: book
+  verified: abstract
+  job: "Ch3 and Ch4. Cohen's h effect size for proportion differences."
+
+- key: wilcoxon1945
+  authors: ["Wilcoxon, F."]
+  year: 1945
+  title: Individual comparisons by ranking methods
+  venue: "Biometrics Bulletin"
+  volume: 1
+  number: 6
+  pages: 80-83
+  type: journal
+  verified: full
+  job: "Ch3.14 and Ch4.2. Wilcoxon signed-rank test, the paired significance test actually used to compute the thesis's reported p-values."
+
+- key: jing2024faithscore
+  authors: ["Jing, L.", "Li, R.", "Chen, Y.", "Du, X."]
+  year: 2024
+  title: "FaithScore: Fine-grained evaluations of hallucinations in large vision-language models"
+  venue: Findings of EMNLP 2024
+  type: conference
+  verified: abstract
+  job: "Ch2.4, as contrast only. Decomposition applied to vision-language, not text citation."
+
+- key: zhang2024longcite
+  authors: ["Zhang, J.", "Bai, Y.", "Lv, X.", "Gu, W.", "Liu, D.", "Zou, M.", "Cao, S.", "Hou, L.", "Dong, Y.", "Feng, L.", "Li, J."]
+  year: 2024
+  title: "LongCite: Enabling LLMs to generate fine-grained citations in long-context QA"
+  venue: "arXiv preprint arXiv:2409.02897"
+  type: preprint
+  verified: abstract
+  job: "Ch2.4. Citation granularity, relates to sentence versus chunk level attribution."
+
+- key: gao2023rarr
+  authors: ["Gao, L.", "Dai, Z.", "Pasupat, P.", "Chen, A.", "Chaganty, A. T.", "Fan, Y.", "Zhao, V. Y.", "Lao, N.", "Lee, H.", "Juan, D.-C.", "Guu, K."]
+  year: 2023
+  suffix: b
+  title: "RARR: Researching and revising what language models say, using language models"
+  venue: ACL 2023
+  pages: 16477-16508
+  type: conference
+  verified: abstract
+  job: "Ch2.5. Post-hoc attribution and revision, an early correction approach."
+
+- key: asai2024selfrag
+  authors: ["Asai, A.", "Wu, Z.", "Wang, Y.", "Sil, A.", "Hajishirzi, H."]
+  year: 2024
+  title: "Self-RAG: Learning to retrieve, generate, and critique through self-reflection"
+  venue: ICLR 2024
+  type: conference
+  verified: abstract
+  job: "Ch2.5 and Ch5. Self-critique inside RAG with reflection tokens. Closest self-correction work in RAG."
+
+- key: min2023factscore
+  authors: ["Min, S.", "Krishna, K.", "Lyu, X.", "Lewis, M.", "Yih, W.", "Koh, P. W.", "Iyyer, M.", "Zettlemoyer, L.", "Hajishirzi, H."]
+  year: 2023
+  title: "FActScore: Fine-grained atomic evaluation of factual precision in long form text generation"
+  venue: EMNLP 2023
+  pages: 12076-12100
+  type: conference
+  verified: abstract
+  job: "Ch2.4. Atomic fact decomposition for factuality, the text-domain analogue."
+
+- key: rashkin2023
+  authors: ["Rashkin, H.", "Nikolaev, V.", "Lamm, M.", "Aroyo, L.", "Collins, M.", "Das, D.", "Petrov, S.", "Tomar, G. S.", "Turc, I.", "Reitter, D."]
+  year: 2023
+  title: Measuring attribution in natural language generation models
+  venue: Computational Linguistics
+  volume: 49
+  number: 4
+  pages: 777-840
+  type: journal
+  verified: abstract
+  job: "Ch2.4. AIS framework, the formal definition of attribution this work assumes."
+
+- key: cui2026needle
+  authors: ["Cui, H.", "Liu, W."]
+  year: 2026
+  title: "Needle-in-RAG: Prompt-Conditioned Character-Level Traceback of Poisoned Spans in Retrieved Evidence"
+  venue: "arXiv preprint arXiv:2605.01782"
+  type: preprint
+  verified: full
+  job: "Ch2.8. Novelty positioning: an independent group uses the same masking-and-replay mechanism for poisoning forensics, not correction, tested across six LLMs — shows the mechanism generalizes without closing this thesis's gap."
+
+- key: malin2025faithfulness
+  authors: ["Malin, B.", "Kalganova, T.", "Boulgouris, N."]
+  year: 2025
+  title: A review of faithfulness metrics for hallucination assessment in Large Language Models
+  venue: "IEEE Journal of Selected Topics in Signal Processing"
+  type: journal
+  verified: full
+  job: "Ch2.3/2.4. IEEE-published review confirming LLM-as-faithfulness-evaluator and RAG/prompting approaches both correlate with better faithfulness; institutional-database search result."
+
+- key: woesle2025systematic
+  authors: ["Woesle, C.", "Fischer-Brandies, L.", "Buettner, R."]
+  year: 2025
+  title: A Systematic Literature Review of Hallucinations in Large Language Models
+  venue: "IEEE Access"
+  type: journal
+  verified: full
+  job: "Ch2.10. PRISMA review of 125 papers via IEEE Xplore/ACM DL/ScienceDirect; classifies mitigation architectures and finds only 8.8% use integrated, architecture-level safeguards -- positions this thesis's inference-time loop against that gap."
+
+- key: ajmal2025hallucination
+  authors: ["Ajmal, R. H.", "Sarwar, M. U.", "Hanif, M. K.", "Khan, M. I."]
+  year: 2025
+  title: Evaluating the Effectiveness of Advanced Language Models in Detecting and Mitigating Hallucinations Using Structured Question-Answering, Novel Metrics, and Post-Hoc Retrieval
+  venue: "IEEE Access"
+  type: journal
+  verified: full
+  job: "Ch2.5. Post-hoc retrieval as a hallucination-mitigation step, corroborating this thesis's own after-the-fact correction framing from a different angle (retrieval-augmentation rather than removal-and-reprompt)."

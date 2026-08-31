@@ -1,0 +1,15 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Other students' theses (reference material, not ours to redistribute)
+Dhanawade_Rohan_MScThesis_2026.pdf
+
+# OS
+.DS_Store

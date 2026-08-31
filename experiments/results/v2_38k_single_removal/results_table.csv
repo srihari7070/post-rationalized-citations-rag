@@ -1,0 +1,57 @@
+query_id,tier,query,C1_prr,C2_before,C2_after,C2_disc,C3_prr,C4_before,C4_after,C4_disc
+Q01,single-fact,Which Vienna-based Austrian startup founded in 2018 focuses on cybersecurity and,0%,0%,0%,100%,50%,0%,0%,100%
+Q02,single-fact,Which Austrian fintech scaleup based in Linz was founded in 2017 and deals with ,0%,0%,0%,100%,0%,100%,0%,0%
+Q03,single-fact,Which Swiss startup founded in 2016 in Zürich provides digital health monitoring,0%,0%,0%,100%,0%,0%,0%,100%
+Q04,single-fact,Which Berlin cybersecurity company founded in 2014 has between 51 and 100 employ,0%,0%,0%,100%,0%,0%,0%,100%
+Q05,single-fact,Which Swiss fintech startup based in Adliswil was founded in 2017 and focuses on,0%,0%,0%,100%,0%,0%,0%,0%
+Q06,single-fact,Which Munich B2B SaaS startup was founded in 2020 and offers workplace managemen,0%,100%,100%,0%,0%,0%,0%,100%
+Q07,single-fact,Which Munich fintech startup founded in 2021 focuses on payment solutions?,100%,100%,0%,0%,0%,0%,0%,100%
+Q08,single-fact,Which Zurich-based Swiss scaleup founded in 2015 provides fleet management and v,0%,100%,100%,0%,0%,0%,0%,0%
+Q09,single-fact,Which Austrian cleantech startup with 1-10 employees was founded in 2020 in Fisc,0%,0%,0%,100%,0%,0%,0%,100%
+Q10,single-fact,Which Vienna-based Austrian startup founded in 2020 with 11-50 employees focuses,0%,0%,0%,100%,0%,0%,0%,100%
+Q11,single-fact,Which Austrian cleantech startup in Vienna was founded in 2018 and provides gree,0%,0%,0%,100%,0%,100%,0%,0%
+Q12,single-fact,Which Swiss cleantech scaleup based in Biel founded in 2018 focuses on water sus,100%,100%,100%,0%,0%,0%,0%,0%
+Q13,single-fact,Which Graz-based Austrian cleantech SME founded in 2014 works on green urban sol,0%,0%,0%,100%,0%,0%,0%,100%
+Q14,single-fact,Which Swiss renewable energy startup in Sion was founded in 2021 with fewer than,0%,0%,0%,100%,0%,0%,0%,0%
+Q15,single-fact,Which Austrian insurtech scaleup based in Neunkirchen was founded in 2017?,100%,100%,100%,0%,0%,0%,0%,0%
+Q16,single-fact,Which Swiss proptech SME in Zürich was founded in 2017 and helps homeowners mana,0%,0%,0%,100%,0%,0%,0%,100%
+Q17,single-fact,Which Berlin-based German edtech startup was founded in 2015 with 1-10 employees,0%,0%,0%,100%,0%,0%,0%,0%
+Q18,single-fact,Which Austrian logistics SME based in Wiener Neudorf was founded in 2015?,0%,0%,0%,100%,0%,0%,0%,100%
+Q19,single-fact,Which German legaltech startup founded in 2017 in Munich focuses on intellectual,0%,100%,100%,0%,0%,0%,0%,100%
+Q20,single-fact,Which Swiss mobility SaaS startup in Lausanne was founded in 2022 and works with,100%,100%,100%,0%,0%,50%,50%,50%
+Q21,two-fact,Which Austrian startup founded in 2021 in Linz works in fintech and has offices ,0%,0%,0%,100%,0%,0%,0%,100%
+Q22,two-fact,Which German cybersecurity SME based in Berlin was founded in 2017 and has more ,100%,100%,100%,0%,0%,100%,0%,0%
+Q23,two-fact,Which Austrian scaleup founded in 2018 with over 250 employees operates in data ,0%,0%,0%,100%,0%,0%,0%,0%
+Q24,two-fact,Which Swiss scaleup in Schlieren founded in 2017 operates in energy markets acro,0%,0%,0%,100%,0%,0%,0%,100%
+Q25,two-fact,Which Munich e-commerce scaleup founded in 2015 with 51-100 employees focuses on,0%,0%,0%,100%,0%,0%,0%,100%
+Q26,two-fact,Which Austrian cleantech scaleup founded in 2018 in Freistadt has grown to more ,0%,0%,0%,100%,0%,0%,0%,100%
+Q27,two-fact,Which Swiss startup founded in 2023 in Neuchâtel with fewer than 10 employees fo,100%,100%,0%,0%,0%,100%,0%,0%
+Q28,two-fact,Which Austrian proptech startup founded in 2018 in Wattens focuses on real estat,0%,0%,0%,100%,0%,0%,0%,100%
+Q29,two-fact,Which Swiss AI and data analytics startup in Zürich was founded in 2023 and focu,0%,0%,0%,100%,0%,0%,0%,100%
+Q30,two-fact,Which German foodtech startup in Munich founded in 2021 focuses on organic B2B f,0%,0%,0%,100%,0%,0%,0%,100%
+Q31,two-fact,Which Swiss cleantech scaleup with 51-100 employees founded in 2016 focuses on w,0%,0%,0%,100%,0%,0%,0%,100%
+Q32,two-fact,Which Austrian cleantech startup with 11-50 employees founded in 2018 in Vienna ,0%,0%,0%,100%,0%,0%,0%,100%
+Q33,two-fact,Which Zurich-based Swiss cybersecurity corporate founded in 2011 has between 500,0%,100%,0%,0%,0%,0%,0%,0%
+Q34,two-fact,Which German Munich-based proptech startup was founded in 2024 and focuses on re,100%,0%,0%,100%,0%,0%,0%,100%
+Q35,two-fact,Which Swiss startup in Montreux founded in 2025 focuses on HR or people manageme,0%,0%,0%,0%,0%,0%,0%,0%
+Q36,two-fact,Which Austrian cybersecurity startup in Graz was founded in 2024 and offers trai,0%,0%,0%,100%,0%,0%,0%,100%
+Q37,two-fact,Which Swiss B2B SaaS startup in Lausanne founded in 2022 focuses on mobility and,100%,100%,100%,0%,0%,50%,100%,50%
+Q38,two-fact,Which German Berlin-based B2B SaaS SME founded in 2014 with 51-200 employees wor,100%,0%,0%,100%,0%,0%,0%,0%
+Q39,two-fact,Which Austrian scaleup in Vienna with more than 450 employees founded in 2016 op,0%,0%,0%,100%,0%,0%,0%,100%
+Q40,two-fact,Which Swiss cleantech startup in Lausanne founded in 2025 focuses on wind energy,0%,0%,0%,100%,0%,100%,0%,0%
+Q41,three-fact,Which Austrian startup with between 21 and 50 employees founded in 2017 in Linz ,0%,0%,0%,100%,0%,0%,0%,100%
+Q42,three-fact,Which Swiss scaleup with 51-100 employees founded in 2015 in Zürich provides sof,100%,0%,0%,100%,100%,100%,100%,0%
+Q43,three-fact,Which German Berlin startup with 1-10 employees founded in 2017 offers legaltech,100%,0%,0%,0%,0%,0%,0%,100%
+Q44,three-fact,Which Austrian data privacy scaleup founded in 2018 with operations in Germany ,0%,0%,0%,100%,0%,0%,0%,100%
+Q45,three-fact,Which Swiss AI and SaaS startup in Lausanne with fewer than 10 employees founded,50%,100%,0%,0%,100%,0%,0%,0%
+Q46,three-fact,Which Swiss healthtech startup in Zürich with 11-50 employees co-founded by Dori,0%,0%,0%,100%,0%,0%,0%,100%
+Q47,three-fact,Which Austrian cleantech scaleup with 150-250 employees founded in 2018 operates,0%,0%,0%,100%,0%,0%,0%,100%
+Q48,three-fact,Which Austrian fintech startup with 11-50 employees founded in 2021 in Linz has ,0%,0%,0%,100%,0%,0%,0%,100%
+Q49,three-fact,Which German Munich e-commerce scaleup with 51-100 employees founded by Darius A,0%,0%,0%,100%,0%,0%,0%,100%
+Q50,three-fact,Which Swiss proptech SME in Zürich co-founded by Florian Ruegg and Marco Kobelt ,0%,0%,0%,100%,100%,0%,0%,100%
+
+AVERAGES
+C1,23.0%,23.0%,+0.0%,0.0%
+C2,24.0%,16.0%,-8.0%,100.0%
+C3,7.0%,7.0%,+0.0%,0.0%
+C4,14.0%,5.0%,-9.0%,97.0%

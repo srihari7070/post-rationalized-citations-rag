@@ -1,0 +1,57 @@
+query_id,query,C1_prr,C2_before,C2_after,C2_disc,C3_prr,C4_before,C4_after,C4_disc
+Q01,Which Berlin-based fintech startups focus on payments or banking?,100%,0%,0%,100%,0%,0%,0%,100%
+Q02,What Swiss healthtech companies offer digital health solutions?,100%,100%,100%,0%,100%,100%,80%,0%
+Q03,Which Austrian startups were founded after 2018?,50%,100%,50%,0%,100%,100%,100%,20%
+Q04,What German SaaS companies operate in the B2B market?,100%,100%,100%,0%,50%,0%,0%,100%
+Q05,Which startups in Germany are working on climate tech or clean energy?,100%,100%,100%,0%,100%,100%,100%,0%
+Q06,What Swiss companies focus on legal tech or compliance software?,100%,100%,100%,0%,100%,50%,0%,50%
+Q07,Which Berlin startups are in the e-commerce or marketplace space?,100%,100%,0%,0%,100%,100%,100%,0%
+Q08,What German companies provide AI-powered software for manufacturing?,100%,100%,100%,0%,60%,80%,100%,20%
+Q09,Which Austrian companies work in the logistics or supply chain sector?,100%,100%,0%,0%,100%,0%,0%,100%
+Q10,What Swiss startups are working on battery or energy storage technology?,50%,75%,100%,25%,50%,50%,50%,0%
+Q11,Which German startups offer HR tech or workforce management tools?,100%,50%,50%,50%,100%,50%,0%,50%
+Q12,What DACH startups focus on cybersecurity or data privacy?,100%,100%,100%,0%,100%,100%,100%,0%
+Q13,Which Munich-based startups operate in the mobility or transport sector?,100%,100%,100%,0%,40%,80%,60%,40%
+Q14,What German companies provide tools for data analytics or business intelligence?,100%,100%,100%,0%,100%,80%,100%,20%
+Q15,Which Swiss startups are active in the insurtech space?,100%,100%,100%,0%,100%,100%,100%,0%
+Q16,What Berlin startups focus on edtech or online learning platforms?,100%,100%,100%,0%,100%,100%,100%,20%
+Q17,Which German companies are building solutions for the real estate or proptech ma,100%,100%,100%,0%,80%,100%,100%,0%
+Q18,What Austrian startups work in the food tech or agri-tech space?,100%,100%,100%,0%,100%,50%,0%,50%
+Q19,Which DACH startups have raised Series A or Series B funding?,0%,80%,100%,20%,100%,100%,50%,0%
+Q20,What German startups are building tools for the legal profession?,100%,100%,100%,0%,100%,100%,100%,0%
+Q21,How do Berlin fintech startups differ from Zurich fintech startups in their busi,100%,100%,80%,0%,100%,100%,100%,0%
+Q22,Compare German and Swiss approaches to healthtech — what problems are each focus,100%,100%,100%,0%,100%,100%,100%,0%
+Q23,What are the differences between early-stage and growth-stage startups in the DA,100%,100%,67%,0%,100%,100%,100%,40%
+Q24,How do B2B and B2C startup models differ in the German e-commerce space?,100%,100%,100%,0%,100%,100%,100%,20%
+Q25,Compare the focus areas of Austrian startups versus German startups in the manuf,100%,100%,100%,0%,100%,100%,100%,0%
+Q26,What distinguishes climate tech startups founded before 2020 from those founded ,60%,80%,100%,20%,100%,100%,100%,20%
+Q27,How do Swiss and German legal tech companies differ in their target markets?,100%,100%,100%,0%,100%,100%,100%,0%
+Q28,Compare the business models of DACH insurtech startups versus traditional insura,100%,100%,100%,0%,100%,100%,100%,0%
+Q29,What are the differences between marketplace and SaaS business models among Berl,100%,100%,100%,0%,100%,100%,100%,0%
+Q30,How do German AI startups focused on enterprise differ from those focused on con,100%,100%,100%,0%,100%,100%,100%,60%
+Q31,Compare the funding patterns of healthtech startups in Switzerland versus German,100%,100%,100%,0%,100%,100%,100%,0%
+Q32,What are the similarities and differences between German proptech and Swiss prop,100%,100%,100%,0%,100%,100%,100%,0%
+Q33,What trends are emerging in the German fintech startup ecosystem?,100%,100%,100%,0%,100%,100%,100%,0%
+Q34,How is AI being applied across different sectors in DACH startups?,100%,100%,100%,0%,100%,100%,100%,0%
+Q35,What patterns exist in the founding years and growth trajectories of Swiss biote,100%,100%,100%,0%,100%,100%,100%,0%
+Q36,Which sectors are attracting the most early-stage investment in Germany right no,100%,100%,100%,0%,100%,100%,100%,0%
+Q37,How are DACH startups addressing sustainability and ESG in their products?,100%,100%,100%,0%,100%,100%,100%,0%
+Q38,What is the pattern of remote-work and hybrid-work tool companies emerging in Ge,100%,100%,100%,0%,100%,100%,100%,40%
+Q39,Which verticals are seeing the most startup activity in Austria?,100%,100%,100%,0%,100%,100%,100%,0%
+Q40,What types of companies are German corporates spinning out as startups?,100%,50%,50%,50%,80%,80%,100%,60%
+Q41,How are DACH healthtech startups using machine learning in diagnostics or patien,100%,100%,100%,0%,100%,100%,0%,0%
+Q42,What is the role of blockchain and Web3 startups in the DACH ecosystem?,100%,100%,100%,0%,100%,100%,100%,0%
+Q43,How are German manufacturing companies being disrupted by Industry 4.0 startups?,100%,100%,100%,0%,100%,100%,100%,0%
+Q44,What trends can be observed in Swiss deep tech and hard tech startups?,100%,100%,100%,0%,100%,100%,100%,0%
+Q45,How are DACH startups addressing the talent shortage in tech through their produ,100%,100%,100%,0%,100%,100%,100%,0%
+Q46,What patterns exist in the international expansion strategies of German scaleups,100%,100%,0%,0%,100%,100%,100%,0%
+Q47,How is the open banking movement influencing fintech startup development in Germ,100%,100%,100%,0%,100%,100%,100%,33%
+Q48,What sectors in Switzerland are seeing the most ETH Zurich spinoff activity?,100%,100%,100%,0%,100%,100%,100%,0%
+Q49,Which DACH startups are building platforms that combine AI data analytics and ,100%,100%,100%,0%,100%,100%,100%,0%
+Q50,Across the DACH startup ecosystem what are the main business model patterns use,100%,100%,100%,0%,100%,100%,100%,0%
+
+AVERAGES
+C1,95.2%,95.2%,+0.0%,0.0%
+C2,94.7%,87.9%,-6.8%,44.2%
+C3,93.2%,93.2%,+0.0%,0.0%
+C4,88.4%,82.8%,-5.6%,46.9%

@@ -1,0 +1,51 @@
+query_id,tier,query,C1_prr_before,C1_prr_after,C1_disc_acc,C2_prr_before,C2_prr_after,C2_disc_acc,C3_prr_before,C3_prr_after,C3_disc_acc,C4_prr_before,C4_prr_after,C4_disc_acc,C5_prr_before,C5_prr_after,C5_disc_acc,C6_prr_before,C6_prr_after,C6_disc_acc
+Q01,single-fact,Which Vienna-based Austrian startup founded in 2018 focuses on cybersecurity and compliance?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q02,single-fact,Which Austrian fintech scaleup based in Linz was founded in 2017 and deals with cryptocurrency taxation?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q03,single-fact,Which Swiss startup founded in 2016 in Zürich provides digital health monitoring for animals?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q04,single-fact,Which Berlin cybersecurity company founded in 2014 has between 51 and 100 employees?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q05,single-fact,Which Swiss fintech startup based in Adliswil was founded in 2017 and focuses on invoicing?,0%,0%,—,0%,0%,100%,100%,100%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q06,single-fact,Which Munich B2B SaaS startup was founded in 2020 and offers workplace management software?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,50%,0%,0%,100%,0%,0%,100%
+Q07,single-fact,Which Munich fintech startup founded in 2021 focuses on payment solutions?,50%,50%,—,50%,50%,50%,0%,0%,—,0%,0%,100%,50%,50%,50%,0%,0%,100%
+Q08,single-fact,Which Zurich-based Swiss scaleup founded in 2015 provides fleet management and vehicle data solutions?,50%,50%,—,50%,50%,50%,50%,50%,—,100%,0%,0%,50%,50%,50%,100%,0%,0%
+Q09,single-fact,Which Austrian cleantech startup with 1-10 employees was founded in 2020 in Fischlham?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q10,single-fact,Which Vienna-based Austrian startup founded in 2020 with 11-50 employees focuses on energy efficiency using AI?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q11,single-fact,Which Austrian cleantech startup in Vienna was founded in 2018 and provides green infrastructure software?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q12,single-fact,Which Swiss cleantech scaleup based in Biel founded in 2018 focuses on water sustainability?,80%,80%,—,80%,80%,20%,0%,0%,—,0%,0%,0%,80%,0%,20%,0%,0%,100%
+Q13,single-fact,Which Graz-based Austrian cleantech SME founded in 2014 works on green urban solutions?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q14,single-fact,Which Swiss renewable energy startup in Sion was founded in 2021 with fewer than 10 employees?,100%,100%,—,100%,0%,0%,0%,0%,—,0%,0%,0%,0%,0%,100%,0%,0%,100%
+Q15,single-fact,Which Austrian insurtech scaleup based in Neunkirchen was founded in 2017?,100%,100%,—,100%,100%,0%,0%,0%,—,0%,0%,0%,100%,100%,0%,0%,0%,100%
+Q16,single-fact,Which Swiss proptech SME in Zürich was founded in 2017 and helps homeowners manage their properties?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q17,single-fact,Which Berlin-based German edtech startup was founded in 2015 with 1-10 employees and focuses on coding?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q18,single-fact,Which Austrian logistics SME based in Wiener Neudorf was founded in 2015?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q19,single-fact,Which German legaltech startup founded in 2017 in Munich focuses on intellectual property?,50%,50%,—,50%,50%,50%,0%,0%,—,0%,0%,100%,50%,50%,50%,0%,0%,100%
+Q20,single-fact,Which Swiss mobility SaaS startup in Lausanne was founded in 2022 and works with IoT and drones?,100%,100%,—,0%,0%,100%,0%,0%,—,100%,0%,0%,0%,0%,100%,100%,100%,0%
+Q21,two-fact,Which Austrian startup founded in 2021 in Linz works in fintech and has offices in both Austria and the United States?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q22,two-fact,Which German cybersecurity SME based in Berlin was founded in 2017 and has more than 50 employees?,80%,80%,—,80%,80%,20%,0%,0%,—,0%,0%,0%,60%,60%,40%,0%,0%,100%
+Q23,two-fact,Which Austrian scaleup founded in 2018 with over 250 employees operates in data privacy across Germany and the UK?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q24,two-fact,Which Swiss scaleup in Schlieren founded in 2017 operates in energy markets across multiple continents?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q25,two-fact,Which Munich e-commerce scaleup founded in 2015 with 51-100 employees focuses on automotive retail?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q26,two-fact,Which Austrian cleantech scaleup founded in 2018 in Freistadt has grown to more than 100 employees?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q27,two-fact,Which Swiss startup founded in 2023 in Neuchâtel with fewer than 10 employees focuses on solar energy?,100%,100%,—,100%,100%,0%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q28,two-fact,Which Austrian proptech startup founded in 2018 in Wattens focuses on real estate software?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q29,two-fact,Which Swiss AI and data analytics startup in Zürich was founded in 2023 and focuses on medical education?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,100%,0%,0%
+Q30,two-fact,Which German foodtech startup in Munich founded in 2021 focuses on organic B2B food distribution?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q31,two-fact,Which Swiss cleantech scaleup with 51-100 employees founded in 2016 focuses on water conservation?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q32,two-fact,Which Austrian cleantech startup with 11-50 employees founded in 2018 in Vienna focuses on urban sustainability software?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q33,two-fact,Which Zurich-based Swiss cybersecurity corporate founded in 2011 has between 500 and 1000 employees?,100%,100%,—,100%,0%,0%,80%,80%,—,80%,80%,20%,100%,100%,0%,80%,80%,20%
+Q34,two-fact,Which German Munich-based proptech startup was founded in 2024 and focuses on real estate finance?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q35,two-fact,Which Swiss startup in Montreux founded in 2025 focuses on HR or people management?,0%,0%,—,0%,0%,0%,0%,0%,—,0%,0%,0%,0%,0%,0%,0%,0%,0%
+Q36,two-fact,Which Austrian cybersecurity startup in Graz was founded in 2024 and offers training and workshops?,0%,0%,—,0%,0%,100%,0%,0%,—,100%,0%,0%,0%,0%,100%,0%,0%,100%
+Q37,two-fact,Which Swiss B2B SaaS startup in Lausanne founded in 2022 focuses on mobility and drone technology?,50%,50%,—,50%,50%,50%,0%,0%,—,0%,0%,0%,50%,0%,50%,0%,0%,0%
+Q38,two-fact,Which German Berlin-based B2B SaaS SME founded in 2014 with 51-200 employees works in cybersecurity awareness?,100%,100%,—,100%,100%,0%,0%,0%,—,0%,0%,0%,100%,100%,0%,0%,0%,100%
+Q39,two-fact,Which Austrian scaleup in Vienna with more than 450 employees founded in 2016 operates in media and advertising technology?,0%,0%,—,0%,0%,0%,0%,0%,—,0%,0%,100%,0%,0%,0%,0%,0%,100%
+Q40,two-fact,Which Swiss cleantech startup in Lausanne founded in 2025 focuses on wind energy?,0%,0%,—,0%,0%,100%,0%,0%,—,100%,0%,0%,0%,0%,100%,100%,0%,0%
+Q41,three-fact,Which Austrian startup with between 21 and 50 employees founded in 2017 in Linz works in blockchain and crypto tax compliance?,100%,100%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q42,three-fact,"Which Swiss scaleup with 51-100 employees founded in 2015 in Zürich provides software for vehicle fleet management for companies in France, Germany and Switzerland?",100%,100%,—,100%,50%,0%,0%,0%,—,0%,0%,100%,100%,100%,0%,0%,0%,100%
+Q43,three-fact,Which German Berlin startup with 1-10 employees founded in 2017 offers legaltech or IP management services from Munich?,0%,0%,—,0%,0%,0%,100%,100%,—,100%,0%,100%,0%,0%,0%,100%,0%,0%
+Q44,three-fact,"Which Austrian data privacy scaleup founded in 2018 with operations in Germany, Sweden and the UK has grown to more than 250 employees?",0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q45,three-fact,Which Swiss AI and SaaS startup in Lausanne with fewer than 10 employees founded in 2022 works in IoT and mobility?,100%,100%,—,100%,100%,0%,100%,100%,—,100%,100%,0%,100%,100%,0%,100%,100%,0%
+Q46,three-fact,Which Swiss healthtech startup in Zürich with 11-50 employees co-founded by Dorina Thiess focuses on veterinary diagnostics?,0%,0%,—,0%,0%,100%,100%,100%,—,100%,0%,0%,0%,0%,100%,0%,0%,100%
+Q47,three-fact,"Which Austrian cleantech scaleup with 150-250 employees founded in 2018 operates across Austria, Germany and Switzerland in energy?",0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q48,three-fact,Which Austrian fintech startup with 11-50 employees founded in 2021 in Linz has a presence in San Francisco and focuses on AI-powered financial services?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q49,three-fact,Which German Munich e-commerce scaleup with 51-100 employees founded by Darius Ahrabian in 2015 focuses on online automotive retail?,0%,0%,—,0%,0%,100%,100%,100%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%
+Q50,three-fact,Which Swiss proptech SME in Zürich co-founded by Florian Ruegg and Marco Kobelt in 2017 helps Swiss homeowners plan and manage property improvements?,0%,0%,—,0%,0%,100%,0%,0%,—,0%,0%,100%,0%,0%,100%,0%,0%,100%

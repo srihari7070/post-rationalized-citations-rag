@@ -1,0 +1,252 @@
+[
+  {
+    "id": "Q01",
+    "tier": "simple",
+    "query": "Which Berlin-based fintech startups focus on payments or banking?"
+  },
+  {
+    "id": "Q02",
+    "tier": "simple",
+    "query": "What Swiss healthtech companies offer digital health solutions?"
+  },
+  {
+    "id": "Q03",
+    "tier": "simple",
+    "query": "Which Austrian startups were founded after 2018?"
+  },
+  {
+    "id": "Q04",
+    "tier": "simple",
+    "query": "What German SaaS companies operate in the B2B market?"
+  },
+  {
+    "id": "Q05",
+    "tier": "simple",
+    "query": "Which startups in Germany are working on climate tech or clean energy?"
+  },
+  {
+    "id": "Q06",
+    "tier": "simple",
+    "query": "What Swiss companies focus on legal tech or compliance software?"
+  },
+  {
+    "id": "Q07",
+    "tier": "simple",
+    "query": "Which Berlin startups are in the e-commerce or marketplace space?"
+  },
+  {
+    "id": "Q08",
+    "tier": "simple",
+    "query": "What German companies provide AI-powered software for manufacturing?"
+  },
+  {
+    "id": "Q09",
+    "tier": "simple",
+    "query": "Which Austrian companies work in the logistics or supply chain sector?"
+  },
+  {
+    "id": "Q10",
+    "tier": "simple",
+    "query": "What Swiss startups are working on battery or energy storage technology?"
+  },
+  {
+    "id": "Q11",
+    "tier": "simple",
+    "query": "Which German startups offer HR tech or workforce management tools?"
+  },
+  {
+    "id": "Q12",
+    "tier": "simple",
+    "query": "What DACH startups focus on cybersecurity or data privacy?"
+  },
+  {
+    "id": "Q13",
+    "tier": "simple",
+    "query": "Which Munich-based startups operate in the mobility or transport sector?"
+  },
+  {
+    "id": "Q14",
+    "tier": "simple",
+    "query": "What German companies provide tools for data analytics or business intelligence?"
+  },
+  {
+    "id": "Q15",
+    "tier": "simple",
+    "query": "Which Swiss startups are active in the insurtech space?"
+  },
+  {
+    "id": "Q16",
+    "tier": "simple",
+    "query": "What Berlin startups focus on edtech or online learning platforms?"
+  },
+  {
+    "id": "Q17",
+    "tier": "simple",
+    "query": "Which German companies are building solutions for the real estate or proptech market?"
+  },
+  {
+    "id": "Q18",
+    "tier": "simple",
+    "query": "What Austrian startups work in the food tech or agri-tech space?"
+  },
+  {
+    "id": "Q19",
+    "tier": "simple",
+    "query": "Which DACH startups have raised Series A or Series B funding?"
+  },
+  {
+    "id": "Q20",
+    "tier": "simple",
+    "query": "What German startups are building tools for the legal profession?"
+  },
+  {
+    "id": "Q21",
+    "tier": "comparative",
+    "query": "How do Berlin fintech startups differ from Zurich fintech startups in their business models?"
+  },
+  {
+    "id": "Q22",
+    "tier": "comparative",
+    "query": "Compare German and Swiss approaches to healthtech \u2014 what problems are each focused on?"
+  },
+  {
+    "id": "Q23",
+    "tier": "comparative",
+    "query": "What are the differences between early-stage and growth-stage startups in the DACH SaaS market?"
+  },
+  {
+    "id": "Q24",
+    "tier": "comparative",
+    "query": "How do B2B and B2C startup models differ in the German e-commerce space?"
+  },
+  {
+    "id": "Q25",
+    "tier": "comparative",
+    "query": "Compare the focus areas of Austrian startups versus German startups in the manufacturing sector."
+  },
+  {
+    "id": "Q26",
+    "tier": "comparative",
+    "query": "What distinguishes climate tech startups founded before 2020 from those founded after 2020 in Germany?"
+  },
+  {
+    "id": "Q27",
+    "tier": "comparative",
+    "query": "How do Swiss and German legal tech companies differ in their target markets?"
+  },
+  {
+    "id": "Q28",
+    "tier": "comparative",
+    "query": "Compare the business models of DACH insurtech startups versus traditional insurance companies."
+  },
+  {
+    "id": "Q29",
+    "tier": "comparative",
+    "query": "What are the differences between marketplace and SaaS business models among Berlin startups?"
+  },
+  {
+    "id": "Q30",
+    "tier": "comparative",
+    "query": "How do German AI startups focused on enterprise differ from those focused on consumer applications?"
+  },
+  {
+    "id": "Q31",
+    "tier": "comparative",
+    "query": "Compare the funding patterns of healthtech startups in Switzerland versus Germany."
+  },
+  {
+    "id": "Q32",
+    "tier": "comparative",
+    "query": "What are the similarities and differences between German proptech and Swiss proptech startups?"
+  },
+  {
+    "id": "Q33",
+    "tier": "trend",
+    "query": "What trends are emerging in the German fintech startup ecosystem?"
+  },
+  {
+    "id": "Q34",
+    "tier": "trend",
+    "query": "How is AI being applied across different sectors in DACH startups?"
+  },
+  {
+    "id": "Q35",
+    "tier": "trend",
+    "query": "What patterns exist in the founding years and growth trajectories of Swiss biotech companies?"
+  },
+  {
+    "id": "Q36",
+    "tier": "trend",
+    "query": "Which sectors are attracting the most early-stage investment in Germany right now?"
+  },
+  {
+    "id": "Q37",
+    "tier": "trend",
+    "query": "How are DACH startups addressing sustainability and ESG in their products?"
+  },
+  {
+    "id": "Q38",
+    "tier": "trend",
+    "query": "What is the pattern of remote-work and hybrid-work tool companies emerging in Germany since 2020?"
+  },
+  {
+    "id": "Q39",
+    "tier": "trend",
+    "query": "Which verticals are seeing the most startup activity in Austria?"
+  },
+  {
+    "id": "Q40",
+    "tier": "trend",
+    "query": "What types of companies are German corporates spinning out as startups?"
+  },
+  {
+    "id": "Q41",
+    "tier": "trend",
+    "query": "How are DACH healthtech startups using machine learning in diagnostics or patient care?"
+  },
+  {
+    "id": "Q42",
+    "tier": "trend",
+    "query": "What is the role of blockchain and Web3 startups in the DACH ecosystem?"
+  },
+  {
+    "id": "Q43",
+    "tier": "trend",
+    "query": "How are German manufacturing companies being disrupted by Industry 4.0 startups?"
+  },
+  {
+    "id": "Q44",
+    "tier": "trend",
+    "query": "What trends can be observed in Swiss deep tech and hard tech startups?"
+  },
+  {
+    "id": "Q45",
+    "tier": "trend",
+    "query": "How are DACH startups addressing the talent shortage in tech through their products?"
+  },
+  {
+    "id": "Q46",
+    "tier": "trend",
+    "query": "What patterns exist in the international expansion strategies of German scaleups?"
+  },
+  {
+    "id": "Q47",
+    "tier": "trend",
+    "query": "How is the open banking movement influencing fintech startup development in Germany?"
+  },
+  {
+    "id": "Q48",
+    "tier": "trend",
+    "query": "What sectors in Switzerland are seeing the most ETH Zurich spinoff activity?"
+  },
+  {
+    "id": "Q49",
+    "tier": "complex",
+    "query": "Which DACH startups are building platforms that combine AI, data analytics, and industry-specific workflows \u2014 and what problems are they solving?"
+  },
+  {
+    "id": "Q50",
+    "tier": "complex",
+    "query": "Across the DACH startup ecosystem, what are the main business model patterns used by companies that have reached scaleup or growth stage?"
+  }
+]

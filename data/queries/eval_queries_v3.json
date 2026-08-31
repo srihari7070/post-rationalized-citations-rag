@@ -1,0 +1,452 @@
+[
+  {
+    "id": "A01",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Austrian company uses artificial intelligence to automatically analyse bone and joint images so that radiologists can quantify damage more consistently?"
+  },
+  {
+    "id": "A02",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Austrian fintech startup allows shops and businesses to accept cryptocurrency payments by plugging into their existing point-of-sale systems rather than replacing them?"
+  },
+  {
+    "id": "A03",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss university spinoff stores surplus renewable electricity by converting it into iron oxide and then reversing the reaction to release power again when the grid needs it?"
+  },
+  {
+    "id": "A04",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss climate startup uses drones and environmental DNA tracking to replant mangroves at scale along coastlines threatened by erosion?"
+  },
+  {
+    "id": "A05",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Austrian startup lets privately insured patients pay for medical expenses with a card at the point of care instead of paying out-of-pocket and filing a claim afterwards?"
+  },
+  {
+    "id": "A06",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Austrian startup offers an app that assesses the risk of skin cancer from a photo and connects the user with a dermatologist if the result warrants it?"
+  },
+  {
+    "id": "A07",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Austrian fintech startup helps banks and insurance companies let their customers search for a specific advisor and book a meeting with that person digitally?"
+  },
+  {
+    "id": "A08",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which German startup allows everyday investors to fund construction and real estate projects online in exchange for fixed returns, in a structure similar to crowdfunding?"
+  },
+  {
+    "id": "A09",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss cleantech startup extracts renewable heating and cooling energy from the walls and floors of underground structures such as tunnels and car parks?"
+  },
+  {
+    "id": "A10",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss deep-tech startup uses quantum mechanics to measure magnetic fields at the scale of individual atoms, with applications in semiconductor and life science research?"
+  },
+  {
+    "id": "A11",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss startup enables autonomous underwater vehicles and divers to communicate and transfer data through water using light instead of acoustic signals?"
+  },
+  {
+    "id": "A12",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which German startup can screen patients for coronary artery disease without any injections, catheters, or imaging contrast agents, using only AI analysis?"
+  },
+  {
+    "id": "A13",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which German startup runs an online marketplace where biomedical researchers can order human tissue samples and biological specimens from suppliers around the world?"
+  },
+  {
+    "id": "A14",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which German cybersecurity firm goes beyond passive defence by actively hunting for attackers inside client networks and neutralising threats before they escalate?"
+  },
+  {
+    "id": "A15",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which German startup uses computer vision to count and analyse yeast cells under a microscope automatically, helping craft breweries and fermentation facilities control their process?"
+  },
+  {
+    "id": "A16",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which German startup developed a self-driving car system by modelling the technology after the way the human brain processes visual information rather than using conventional rule-based approaches?"
+  },
+  {
+    "id": "A17",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Swiss startup makes it easy for people living in city apartments to compost their kitchen scraps using worms, without smell or mess?"
+  },
+  {
+    "id": "A18",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss ETH spinoff uses nanotechnology and Raman spectroscopy to detect contamination in the ultrapure liquids used during semiconductor chip manufacturing?"
+  },
+  {
+    "id": "A19",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss blockchain startup has built the infrastructure layer that allows institutional borrowers and lenders to transact with each other using collateral on a decentralised network, without a traditional bank in the middle?"
+  },
+  {
+    "id": "A20",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss cleantech startup makes software that helps electricity distribution network operators manage the instability caused by too many homes feeding solar power back into the local grid?"
+  },
+  {
+    "id": "A21",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Swiss startup sells a SaaS platform that energy suppliers use to read smart meters remotely and reduce the manual work involved in billing and grid operations?"
+  },
+  {
+    "id": "A22",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss startup uses AI to help cities and property owners model the energy performance of entire urban neighbourhoods so they can prioritise which buildings to renovate first?"
+  },
+  {
+    "id": "A23",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Swiss startup helps students who want to study at a foreign university independently, without going through a formal exchange programme, by handling housing, insurance, and application paperwork?"
+  },
+  {
+    "id": "A24",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which Swiss startup trains company employees to resist phishing attacks by sending them convincing fake phishing emails and then teaching them what to look for after they click?"
+  },
+  {
+    "id": "A25",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which Swiss healthtech startup uses AI to analyse photographs of the inside of the eye in order to detect signs of diabetic retinopathy and other retinal diseases at an early stage?"
+  },
+  {
+    "id": "A26",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which German startup analyses the text content of web pages in real time so that the ads shown on those pages match the topic of the article rather than following the reader around the internet?"
+  },
+  {
+    "id": "A27",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which German startup makes a software brain for factory robots that allows them to visually identify and pick up objects they have never been specifically programmed to handle?"
+  },
+  {
+    "id": "A28",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which German IT company specialises in running and integrating SAP systems specifically for freight forwarding and air cargo companies, including round-the-clock support?"
+  },
+  {
+    "id": "A29",
+    "type": "A",
+    "tier": "single-fact",
+    "query": "Which German startup lets retail investors buy small fractional stakes in individual residential or commercial properties through a mobile app, similar to how one buys stocks?"
+  },
+  {
+    "id": "A30",
+    "type": "A",
+    "tier": "two-fact",
+    "query": "Which German software company helps pharmaceutical and medical device companies manage the documentation, audit trails, and process controls required to keep their manufacturing licences in countries with strict regulatory standards?"
+  },
+  {
+    "id": "B01",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which German startup uses AI to help online publishers and advertisers target the right audience?"
+  },
+  {
+    "id": "B02",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which Swiss startup is working on energy storage solutions for renewable power?"
+  },
+  {
+    "id": "B03",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which DACH startup helps companies measure and reduce their carbon emissions?"
+  },
+  {
+    "id": "B04",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which Austrian startup operates at the intersection of financial services and healthcare?"
+  },
+  {
+    "id": "B05",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which German cybersecurity startup offers managed security services to mid-sized businesses?"
+  },
+  {
+    "id": "B06",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which Swiss startup applies machine learning to improve the accuracy of medical diagnoses?"
+  },
+  {
+    "id": "B07",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which German startup provides software tools for property managers and real estate developers?"
+  },
+  {
+    "id": "B08",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which DACH startup is building software specifically for banks or insurance companies to improve digital customer interactions?"
+  },
+  {
+    "id": "B09",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which German or Swiss startup uses AI to optimise supply chains or logistics operations?"
+  },
+  {
+    "id": "B10",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which German startup helps employees collaborate better and manage their work digitally, especially for distributed teams?"
+  },
+  {
+    "id": "B11",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which Swiss or German startup helps city residents reduce household food waste in an environmentally friendly way?"
+  },
+  {
+    "id": "B12",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which DACH startup helps small and medium-sized businesses digitise their internal processes?"
+  },
+  {
+    "id": "B13",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which startup operating in the DACH region runs security awareness training or simulated attack exercises for corporate employees?"
+  },
+  {
+    "id": "B14",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which Swiss or German deep-tech startup focuses on water analysis or purification technology?"
+  },
+  {
+    "id": "B15",
+    "type": "B",
+    "tier": "single-fact",
+    "query": "Which DACH startup is using blockchain technology to create new financial products or services?"
+  },
+  {
+    "id": "C01",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup can store surplus wind and solar power for days or weeks at a time, not just hours, using a technology based on a reversible chemical reaction with a common metal?"
+  },
+  {
+    "id": "C02",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup is fighting the disappearance of tropical coastal forests by sending autonomous flying machines to plant seedlings at a scale that human teams cannot match?"
+  },
+  {
+    "id": "C03",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup generates clean heating and cooling for buildings by borrowing warmth from the ground beneath existing structures, without needing to drill boreholes or build new infrastructure?"
+  },
+  {
+    "id": "C04",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup makes it possible for robots working on the seabed to send video and telemetry back to the surface without using cables or radio waves?"
+  },
+  {
+    "id": "C05",
+    "type": "C",
+    "tier": "three-fact",
+    "query": "Which Swiss startup built instruments that let researchers observe magnetic phenomena that occur at a scale one thousand times smaller than the width of a human hair, using properties of quantum physics?"
+  },
+  {
+    "id": "C06",
+    "type": "C",
+    "tier": "single-fact",
+    "query": "Which Swiss startup has designed a simple kit that lets someone living in a flat convert their vegetable peelings and coffee grounds into garden fertiliser using live worms, without needing outdoor space?"
+  },
+  {
+    "id": "C07",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which German startup has automated the process of checking whether a batch of fermented liquid is ready for the next production step, by counting the microscopic organisms responsible for fermentation?"
+  },
+  {
+    "id": "C08",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which German startup can tell a doctor whether a patient's heart arteries are significantly narrowed, using nothing more than a short recording made without touching the patient?"
+  },
+  {
+    "id": "C09",
+    "type": "C",
+    "tier": "single-fact",
+    "query": "Which German startup acts as an intermediary that helps scientists who need leftover human organs or blood from hospitals to find and purchase those materials legally and traceably?"
+  },
+  {
+    "id": "C10",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup has built a system where someone can lock up digital assets as collateral and immediately borrow against them, with all the terms and conditions enforced automatically by computer code rather than by a bank?"
+  },
+  {
+    "id": "C11",
+    "type": "C",
+    "tier": "single-fact",
+    "query": "Which Swiss startup protects organisations from email fraud by regularly sending their own employees convincingly deceptive messages to see who falls for them, then teaching those people what to watch out for?"
+  },
+  {
+    "id": "C12",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup from ETH Zurich has built a device that can tell whether a liquid used in electronics manufacturing contains even trace amounts of contamination, without having to extract a sample or disrupt the process?"
+  },
+  {
+    "id": "C13",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which German startup taught a car to drive itself by studying how biological nervous systems process what they see, rather than by writing explicit rules for every traffic situation?"
+  },
+  {
+    "id": "C14",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup makes software that helps electricity grid operators cope with the problem of voltage fluctuations caused by increasing numbers of households generating their own power from rooftop panels?"
+  },
+  {
+    "id": "C15",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which German startup gives factory robots the ability to figure out how to handle an unfamiliar object without being reprogrammed every time a new product arrives on the production line?"
+  },
+  {
+    "id": "C16",
+    "type": "C",
+    "tier": "single-fact",
+    "query": "Which German startup ensures that when someone reads a recipe article online, the advertisements they see are for cookware and ingredients rather than for cars or insurance, without storing any personal information about that reader?"
+  },
+  {
+    "id": "C17",
+    "type": "C",
+    "tier": "single-fact",
+    "query": "Which Austrian fintech startup lets customers of a bank look up a specific adviser by name and expertise and book a video or in-person appointment directly, instead of being assigned whoever picks up the phone?"
+  },
+  {
+    "id": "C18",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which Swiss startup uses AI to look at photographs taken of the back of the eye and flag patients who may be losing their vision because of complications from high blood sugar?"
+  },
+  {
+    "id": "C19",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which German software company helps drug makers keep detailed records of every step in their manufacturing process so that government inspectors can verify nothing went wrong and their licence to produce stays valid?"
+  },
+  {
+    "id": "C20",
+    "type": "C",
+    "tier": "two-fact",
+    "query": "Which German IT company specialises in keeping the technology systems of companies that move cargo by air running without interruption, including integrating the specific enterprise software that the freight industry relies on?"
+  },
+  {
+    "id": "D01",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which startup based in Liechtenstein has developed a robotic surgical assistance system approved for use in hospitals?"
+  },
+  {
+    "id": "D02",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which DACH startup has built and commercially deployed a working nuclear fusion reactor component that is being sold to power utilities?"
+  },
+  {
+    "id": "D03",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which Austrian startup founded before 2005 with more than two thousand employees focuses on quantum cryptography for government communications?"
+  },
+  {
+    "id": "D04",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which German startup operates a city-wide hyperloop passenger transport network connecting two major urban centres, with commercial tickets currently on sale?"
+  },
+  {
+    "id": "D05",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which Swiss or Austrian startup has deployed fleets of autonomous drones that make regular deliveries of prescription medication to patients in rural mountain communities?"
+  },
+  {
+    "id": "D06",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which startup operating in Vienna or Graz has a commercially available brain-computer interface device that allows patients with complete paralysis to communicate by thought alone?"
+  },
+  {
+    "id": "D07",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which German startup runs a decentralised social media network with no central server that currently has more than one million active monthly users?"
+  },
+  {
+    "id": "D08",
+    "type": "D",
+    "tier": "single-fact",
+    "query": "Which DACH startup is currently selling lab-grown fish fillets grown entirely from cell cultures, without raising or catching any fish?"
+  },
+  {
+    "id": "D09",
+    "type": "D",
+    "tier": "two-fact",
+    "query": "Which Swiss startup founded before 2010 with more than five hundred employees provides quantum computing services to pharmaceutical companies for drug molecule simulation?"
+  },
+  {
+    "id": "D10",
+    "type": "D",
+    "tier": "two-fact",
+    "query": "Which German startup has built a commercially operational quantum computer with more than one thousand stable qubits that businesses can access via cloud subscription?"
+  }
+]

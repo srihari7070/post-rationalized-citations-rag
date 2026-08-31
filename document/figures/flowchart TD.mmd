@@ -1,0 +1,16 @@
+flowchart TD
+    A([START]) --> B[Phase 1: Data Analysis]
+    B --> C{Enough usable\ncompany docs?}
+    C -->|Yes ≥1000| D[Phase 2: Data Preparation]
+    C -->|No| E[Expand corpus:\nadd job descriptions\nas separate docs]
+    E --> D
+    D --> F{Embeddings\ncomplete?}
+    F -->|Yes - Gemini model confirmed| G[Phase 3: Build RAG Pipeline]
+    F -->|No - model unknown| H[Re-embed subset\nwith sentence-transformers]
+    H --> G
+    G --> I[Phase 4: Chunk-Removal Audit]
+    I --> J[Phase 5: Adversarial Loop]
+    J --> K[Phase 6: Basic Frontend UI]
+    K --> L[Phase 7: Run 2×2 Experiments]
+    L --> M[Phase 8: Analysis & Write-up]
+    M --> N([DONE])

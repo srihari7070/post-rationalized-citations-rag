@@ -1,0 +1,211 @@
+{
+  "mode": "full",
+  "n_annotators": 1,
+  "annotators": [
+    "Srihari"
+  ],
+  "attention_check_failed": [],
+  "n_scored": 27,
+  "n_all_unclear": 2,
+  "n_tied": 0,
+  "agreement": 0.6296296296296297,
+  "kappa": 0.30769230769230776,
+  "kappa_ci": [
+    0.09467455621301771,
+    0.5621621621621623
+  ],
+  "by_band": {
+    "above": 0.4444444444444444,
+    "below": 1.0,
+    "far_above": 0.16666666666666666,
+    "far_below": 1.0
+  },
+  "by_query_type": {
+    "D": 0.5,
+    "A": 0.875,
+    "C": 0.8333333333333334,
+    "B": 0.2857142857142857
+  },
+  "disagreements": [
+    {
+      "item_id": "B03_c1_C11",
+      "query_id": "B03",
+      "condition": "C11",
+      "query_type": "B",
+      "target_index": 1,
+      "similarity": 0.896,
+      "audit_verdict": "post_rationalised",
+      "band": "above",
+      "other_chunk_overlap": 0.286,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "D05_c2_C10",
+      "query_id": "D05",
+      "condition": "C10",
+      "query_type": "D",
+      "target_index": 2,
+      "similarity": 0.955,
+      "audit_verdict": "post_rationalised",
+      "band": "far_above",
+      "other_chunk_overlap": 0.188,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "C09_c2_C10",
+      "query_id": "C09",
+      "condition": "C10",
+      "query_type": "C",
+      "target_index": 2,
+      "similarity": 0.8531,
+      "audit_verdict": "post_rationalised",
+      "band": "above",
+      "other_chunk_overlap": 0.256,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "B15_c2_C10",
+      "query_id": "B15",
+      "condition": "C10",
+      "query_type": "B",
+      "target_index": 2,
+      "similarity": 0.8863,
+      "audit_verdict": "post_rationalised",
+      "band": "above",
+      "other_chunk_overlap": 0.344,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "B08_c3_C11",
+      "query_id": "B08",
+      "condition": "C11",
+      "query_type": "B",
+      "target_index": 3,
+      "similarity": 0.8743,
+      "audit_verdict": "post_rationalised",
+      "band": "above",
+      "other_chunk_overlap": 0.18,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "D05_c1_C10",
+      "query_id": "D05",
+      "condition": "C10",
+      "query_type": "D",
+      "target_index": 1,
+      "similarity": 0.9351,
+      "audit_verdict": "post_rationalised",
+      "band": "far_above",
+      "other_chunk_overlap": 0.298,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "B02_c2_C10",
+      "query_id": "B02",
+      "condition": "C10",
+      "query_type": "B",
+      "target_index": 2,
+      "similarity": 0.9482,
+      "audit_verdict": "post_rationalised",
+      "band": "far_above",
+      "other_chunk_overlap": 0.163,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "D05_c2_C1",
+      "query_id": "D05",
+      "condition": "C1",
+      "query_type": "D",
+      "target_index": 2,
+      "similarity": 0.9608,
+      "audit_verdict": "post_rationalised",
+      "band": "far_above",
+      "other_chunk_overlap": 0.188,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "A28_c1_C10",
+      "query_id": "A28",
+      "condition": "C10",
+      "query_type": "A",
+      "target_index": 1,
+      "similarity": 0.9609,
+      "audit_verdict": "post_rationalised",
+      "band": "far_above",
+      "other_chunk_overlap": 0.13,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    },
+    {
+      "item_id": "B09_c4_C12",
+      "query_id": "B09",
+      "condition": "C12",
+      "query_type": "B",
+      "target_index": 4,
+      "similarity": 0.8793,
+      "audit_verdict": "post_rationalised",
+      "band": "above",
+      "other_chunk_overlap": 0.148,
+      "human": "genuine",
+      "votes": {
+        "Srihari": "needed"
+      },
+      "consensus": 1.0,
+      "n_unclear": 0,
+      "note": ""
+    }
+  ]
+}
